@@ -9,14 +9,13 @@
 
 ## Introduction
 
-You've been contracted by a restaurant to start building out their website. Before you work on any of the styling, you need to organzine your data in JavaScript. In this challenge you will work with different objects, constructors, and arrays of objects to manipulate data. 
+You've been contracted by a restaurant to start building out their website. Before you work on any of the styling, you need to organzine your data in JavaScript. In this challenge you will work with different objects, constructors, and arrays of objects to manipulate data.
 
 ## Instructions
 
 ### Task 1: Set up Project
 
 Using VSCode and Command Line:
-
 
 1. Fork the repo
 2. Clone your forked version of the repo
@@ -32,13 +31,13 @@ Find the file `index.js` and complete the tasks for MVP.
 ### Testing & Debugging
 
 Open a second terminal inside of your project by clicking on the split terminal icon
-![alt text](assets/split_terminal.png "Split Terminal")
+![alt text](assets/split_terminal.png 'Split Terminal')
 
-Inside of your second terminal type `npm start` 
-![alt text](assets/npm_start.png "type npm start")
+Inside of your second terminal type `npm start`
+![alt text](assets/npm_start.png 'type npm start')
 
 You will be running your tests in one terminal and debugging in the other. As you work on your code you should make use of `console.log` to check your progress and debug.
-![alt text](assets/tests_debug_terminal_final.png "your terminal should look like this")
+![alt text](assets/tests_debug_terminal_final.png 'your terminal should look like this')
 
 ### Task 3: Stretch
 
@@ -57,5 +56,3 @@ Make sure you are invoking your function after defining it in order to view resu
 ## Submission format
 
 Please submit your project via codegrade by following [these instructions](https://www.notion.so/lambdaschool/Submitting-an-assignment-via-Code-Grade-A-Step-by-Step-Walkthrough-07bd65f5f8364e709ecb5064735ce374)
-
-
